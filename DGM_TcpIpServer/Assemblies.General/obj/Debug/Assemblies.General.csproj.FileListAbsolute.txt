@@ -1,0 +1,18 @@
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.General\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.General\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.General\obj\Debug\Assemblies.General.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.General\obj\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.General\obj\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.General\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.General\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.General\obj\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.General\obj\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.General\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.General\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.General\obj\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.General\obj\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.General\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.General\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.General\obj\Debug\Assemblies.General.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.General\obj\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.General\obj\Debug\Assemblies.General.pdb

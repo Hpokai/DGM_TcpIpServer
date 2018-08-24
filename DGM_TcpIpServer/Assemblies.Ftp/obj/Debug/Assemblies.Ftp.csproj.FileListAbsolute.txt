@@ -1,0 +1,56 @@
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_TEST\CSFtp-master\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161213\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170119\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170218\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170410\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\bin\Debug\Assemblies.Ftp.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\bin\Debug\Assemblies.General.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\bin\Debug\Assemblies.General.pdb
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.dll
+D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20170623\Assemblies.Ftp\obj\Debug\Assemblies.Ftp.pdb

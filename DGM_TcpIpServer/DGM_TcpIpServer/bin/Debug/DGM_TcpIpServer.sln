@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "DGM_TcpIpServer", "DGM_TcpIpServer.exe", "{FE8498C2-6248-4EF5-8737-9488ED70C82B}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\DGM_TcpIpServer\bin\Debug\DGM_TcpIpServer.exe
+		RemoteMachine = CHA1MSM979
+		StartingDirectory = D:\Jabil\00__Project\_CHA\13-Raspberry pi\TcpIP_Server\DGM_TcpIpServer_20161227\DGM_TcpIpServer\bin\Debug
+		Environment = 預設
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8498C2-6248-4EF5-8737-9488ED70C82B}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
